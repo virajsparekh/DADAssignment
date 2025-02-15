@@ -7,9 +7,9 @@
 *
 * https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
 *
-* Name: Viraj Parekh Student ID: ____________ Date: ____________
+* Name: Viraj Parekh Student ID: 119204238 Date: 14/02/2025 
 *
-* Published URL: ___________________________________________________________
+* Published URL: web700-assignment3-neon.vercel.app
 *
 ********************************************************************************/
 
